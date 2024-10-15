@@ -1,1 +1,57 @@
+<!DOCTYPEhtml>
 <html>
+    <head>
+        <title>SCHOOL RESULT WEBPAGE</title>
+    </head>
+    <body>
+        <h1>VANGUARDS ACADEMY SCHOOL RESULT FOR FIRST TERM 24/25 SESSION.</h1>
+
+        <B><BIG>FOR SS1-SS3:</BIG></B><br>
+        Total no of student in <i>ss1</i><b>:90</b><br>
+        Total no of student in <i>ss2</i><b>:85</b><br>
+        Total no of student in <i>ss3</i><b>:65</b><br>
+        <p></p>
+
+        <table border>
+            <tr bgcolor="blue">
+                <th>S/N</th>
+                <th>CLASS</th>
+                <th>NO OF SUBJECT OFFERING</th>
+                <th>NO OF STUDENT THAT PASSED ALL</th>
+                <th>NO OF STUDENT THAT FAILED ONE OR MORE</th>
+                <th>%PASS</th>
+                <th>%FAIL</th>
+            </tr>
+            <tr bgcolor="red">
+                <td>1.</td>
+                <td>ss1</td>
+                <td>11</td>
+                <td>80</td>
+                <td>10</td>
+                <td>88.9</td>
+                <td>11.1</td>
+            </tr>
+            <tr bgcolor="red">
+                <td>2.</td>
+                <td>ss2</td>
+                <td>11</td>
+                <td>70</td>
+                <td>15</td>
+                <td>82.4</td>
+                <td>17.6</td>
+            </tr>
+            <tr bgcolor="red">
+                <td>3.</td>
+                <td>ss3</td>
+                <td>9</td>
+                <td>42</td>
+                <td>23</td>
+                <td>64.6</td>
+                <td>35.4</td>
+            </tr>
+        </table>
+<p></p>
+<a href="https://vanguardacademy-ng.com/">click here</a> to know more about Vanguards Academy.
+
+    </body>
+</html>
